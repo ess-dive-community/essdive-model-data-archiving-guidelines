@@ -14,4 +14,4 @@ Have a question? Contact us at ess-dive-support@lbl.gov.
 
 [Simmonds, M B, W J Riley, M Melara, S Cholia, C Varadharajan (2020, Dec 8). Addressing Model Data Archiving Needs for the Department of Energy’s Environmental Systems Science Community, AGU Fall Meeting, Poster](https://agu2020fallmeeting-agu.ipostersessions.com/default.aspx?s=E0-3E-14-4B-92-EE-A6-0F-11-0C-CC-D8-A5-DE-D4-A8&guestview=true)
 
-[Simmonds, M B, W J Riley, S Cholia, C Varadharajan (2020, May 8). Addressing Model Data Archiving Needs for the Department of Energy’s Environmental Systems Science Community. https://doi.org/10.31223/osf.io/acdk4](https://doi.org/10.31223/osf.io/acdk4)
+[Simmonds, M B, W J Riley, S Cholia, C Varadharajan (2020, May 8). Addressing Model Data Archiving Needs for the Department of Energy’s Environmental Systems Science Community. https://doi.org/10.31223/osf.io/acdk4](https://doi.org/10.31223/osf.io/acdk4) 
