@@ -4,11 +4,10 @@ These guidelines were informed through engagement with the U.S. Department of En
 
 We distributed and synthesized data repository user-feedback forms to develop a white paper ([Simmonds et al, 2020](https://doi.org/10.31223/osf.io/acdk4)) that summarizes the community needs for model data archiving and ESS-DIVE's response to supporting those needs. A key finding from our user-survey was that the primary need for most researchers is to archive model data associated with publishing journal articles to meet journal and funding requirements. In response, we interviewed researchers to assess their current practices for archiving model data for journal articles.  
 
-These guidelines are the culmination of the aforementioned efforts, they will evolve over time based on ongoing community engagement and feedback received on the material in this GitHub repository.
-
+These guidelines are the culmination of the aforementioned efforts, they will evolve over time based on ongoing community engagement and feedback received on the material in this GitHub repository.  
 
 ## Getting started  
-
+To begin using the model data archiving guidelines, visit the [instructions page](instructions.md). There you will find the step-by-step procedure for making decisions about which files to archive.
 
 ## How to contribute
 
