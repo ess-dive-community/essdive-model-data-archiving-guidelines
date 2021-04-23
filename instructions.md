@@ -13,7 +13,7 @@ We have organized the model data archiving guidelines in three sections.
 
 The figure below provides a visual depiction of how to organize some of the most common files associated with model data.  The files are either **metadata**, **data files**, or a **user guide**.
 
-![Recommended guidelines for publicly archiving land model data and code associated with journal articles to enhance their usability and enable data synthesis. (image from Simmonds et al 2021)](https://github.com/ess-dive-community/essdive-model-data-archiving-guidelines/blob/main/Model%20Data%20Guidelines%20-%20Components.png)
+![Recommended guidelines for publicly archiving land model data and code associated with journal articles to enhance their usability and enable data synthesis. (image from Simmonds et al 2021)](https://github.com/ess-dive-community/essdive-model-data-archiving-guidelines/blob/main/Model%20Data%20Guidelines%20Diagram.png)
 
 Once the model data and all associated files are prepared, all files and software can be published in a long-term data archive and assigned a DOI. 
 
