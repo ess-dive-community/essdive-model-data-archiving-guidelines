@@ -1,6 +1,6 @@
 # Using the model data archiving guidelines
 
-We compiled this set of model data archiving guidelines based on a review of existing model archiving practices, and also a survey of Earth and Environmental modelers. Based, on the information we collected, we provide a set of guidelines that can help modelers decide how to organize and archive data from their land model simulations.
+We compiled this set of model data archiving guidelines based on a review of existing model archiving practices, and also a survey of land modelers. Based, on the information we collected, we provide a set of guidelines that can help modelers decide how to organize and archive data from their land model simulations.
 
 We have organized the model data archiving guidelines in three sections.  
 1. [File organization](#file-organization): Guidelines for organizing model data files that are associated with a scientific publication  
