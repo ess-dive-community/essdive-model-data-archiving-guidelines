@@ -11,7 +11,7 @@ To begin using the model data archiving guidelines, visit the [instructions page
 
 ## How to contribute
 
-If you would like to suggest a change to the model data archiving guidelines, please submit a GitHub issue using one of our issue templates.
+If you would like to suggest a change to the model data archiving guidelines, please submit a GitHub issue using one of our [issue templates](https://github.com/ess-dive-community/essdive-community-space-guide/issues/new/choose).
 
 If you would prefer to submit feedback over email, or for any other inquiries contact us at ess-dive-support@lbl.gov.
 
