@@ -26,7 +26,7 @@ In our survey of the ESS modeling community, we found that modelers often strugg
 
 We created the decision tree that summarizes the most common decisions that modelers have to make when archiving data. We then provide suggestions for *which* files to archive, and *when* to submit the data to a public archive.  
 
-![Decision tree](Model Data Guidelines - Decision tree.png)
+![Decision tree](https://github.com/ess-dive-community/essdive-model-data-archiving-guidelines/blob/main/Model%20Data%20Guidelines%20-%20Decision%20tree.png)
 
 --- 
 ### 3. File-Level Metadata  
