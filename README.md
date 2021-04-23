@@ -19,7 +19,7 @@ If you would prefer to submit feedback over email, or for any other inquiries co
 
 ## How to cite these guidelines  
 
-Simmonds, M.B.; Riley, W.J; Koven, C; Kakalia, Z; Crystal-Ornelas, R.; Melara, M.; Cholia, S.; Walker, A; Jan, A.; Zhu, Q.; Zhi, W.; Li, L.; Dwivedi, D.; Kumar; J.; Xingyuan, C.; Painter, S.; Ricciuto, D.; Coon, E.; Hung, M.; Maher, K.; Agarwal, D.; Varadharajan, C. (In Prep). Guidelines for publicly archiving land model data to enhance thier usability and enable model data intercomparison and synthesis.
+Simmonds, M.B.; Riley, W.J; Koven, C; Kakalia, Z; Crystal-Ornelas, R.; Melara, M.; Cholia, S.; Walker, A; Jan, A.; Zhu, Q.; Zhi, W.; Li, L.; Dwivedi, D.; Kumar; J.; Xingyuan, C.; Painter, S.; Ricciuto, D.; Coon, E.; Hung, M.; Maher, K.; Agarwal, D.; Varadharajan, C. (In Prep). Guidelines for publicly archiving land model data to enhance their usability and enable model data intercomparison and synthesis.
 
 ## Funding and acknowledgements  
 ESS-DIVE is funded by the U.S. Department of Energy, Office of Science, Office of Biological and Environmental Research, Earth and Environmental Sciences Division, Data Management program under contract number DE-AC02-05CH11231. ESS-DIVE uses resources of the National Energy Research Scientific Computing Center (NERSC), a DOE Office of Science User Facility operated under Contract No. DE-AC02-05CH11231.
