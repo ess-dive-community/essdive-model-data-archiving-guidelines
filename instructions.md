@@ -42,4 +42,12 @@ The decision tree below provides suggestions for which files to archive, and whe
 We suggest researchers archiving model data include 2 types of file-level metadata. For more details see [ESS-DIVE File-level Metadata](https://github.com/ess-dive-community/essdive-file-level-metadata). Note that one possible option is to use ncdump to create a metadata CSV file for NetCDF and HDF5 files. 
 ![File-level metadata](https://github.com/ess-dive-community/essdive-model-data-archiving-guidelines/blob/main/Model%20Data%20Guidelines%20-%20FLMD.png)  
 
+&#185; For more details and quick guide [see](https://github.com/ess-dive-community/essdive-file-level-metadata/blob/master/flmd_instructions.md)  
+&#178; Example of [CSV format](https://github.com/ess-dive-community/essdive-csv-structure)  
+&#179; Report the Local Standard Time offset (+/- #hours) or time zone (abbreviations allowed). Do not report time using Daylight Savings Time  
+&#8308; yyyy-mm-dd  
+&#8309; If providing a non-point location (WGS84 decimal degrees)  
+&#8310; If providing a single point location (WGS84 decimal degrees)  
+&#8311; For columns containing numeric data, use "-9999" as the missing value code (or modify to match significant figures given the data). For columns containing character data, use "N/A" as the missing value code.  
+&#8312; Orientation of the "Field Name" within the data matrix of the data file: 1) Horizontal with field names at the top of columns (i.e., column name) or 2) Vertical with field names starting rows (i.e., row name).
 
