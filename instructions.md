@@ -3,9 +3,9 @@
 We compiled this set of model data archiving guidelines based on a review of existing model archiving practices, and also a survey of land modelers. Based, on the information we collected, we provide a set of guidelines that can help modelers decide how to organize and archive data from their land model simulations.
 
 We have organized the model data archiving guidelines in three sections.  
-1. [Files to include](#files-to-include): Guidelines for organizing model data files that are associated with a scientific publication  
-2. [Deciding how to bundle files](#deciding-how-to-bundle-files): A decision tree to help users decide how to group files for archive
-3. [File-level metadata](#file-level-metadata): A deeper look at one component of the model data guidelines  
+1. [Files to include](#1-files-to-include): Guidelines for organizing model data files that are associated with a scientific publication  
+2. [Deciding how to bundle files](#2-deciding-how-to-bundle-files): A decision tree to help users decide how to group files for archive
+3. [File-level metadata](#3-file-level-metadata): A deeper look at one component of the model data guidelines  
 
 ---
 
