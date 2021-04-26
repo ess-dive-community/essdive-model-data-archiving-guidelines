@@ -2,7 +2,7 @@
 
 These guidelines were informed through engagement with the U.S. Department of Energy's Environmental System Science (ESS) land modeling community. 
 
-We distributed and synthesized data repository user-feedback forms to develop a white paper ([Simmonds et al, 2020](https://doi.org/10.31223/osf.io/acdk4)) that summarizes the community needs for model data archiving and ESS-DIVE's response to supporting those needs. A key finding from our user-survey was that the primary need for most researchers is to archive model data associated with publishing journal articles to meet journal and funding requirements. In response, we interviewed researchers to assess their current practices for archiving model data for journal articles.  
+We distributed and synthesized data repository user-feedback forms to develop a white paper ([Simmonds et al, 2020a](https://doi.org/10.31223/osf.io/acdk4)) that summarizes the community needs for model data archiving and ESS-DIVE's response to supporting those needs. A key finding from our user-survey was that the primary need for most researchers is to archive model data associated with publishing journal articles to meet journal and funding requirements. In response, we interviewed researchers to assess their current practices for archiving land model data for journal articles. We are  preparing a manuscript summarizing the findings of the researcher interviews, and developing guidelines for archiving model data ([Simmonds et al. 2020b](#how-to-cite-these-guidelines)).
 
 These guidelines are the culmination of the aforementioned efforts, they will evolve over time based on ongoing community engagement and feedback received on the material in this GitHub repository.  
 
@@ -16,6 +16,7 @@ If you would like to suggest a change to the model data archiving guidelines, pl
 If you would prefer to submit feedback over email, or for any other inquiries contact us at ess-dive-support@lbl.gov.
 
 ## Usage license
+The content in this repository is free to use under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/), and we ask that you cite the paper below to attribute credit.
 
 ## How to cite these guidelines  
 
