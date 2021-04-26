@@ -3,28 +3,36 @@
 We compiled this set of model data archiving guidelines based on a review of existing model archiving practices, and also a survey of land modelers. Based, on the information we collected, we provide a set of guidelines that can help modelers decide how to organize and archive data from their land model simulations.
 
 We have organized the model data archiving guidelines in three sections.  
-1. [File organization](#file-organization): Guidelines for organizing model data files that are associated with a scientific publication  
-2. [Decision tree](#decision-tree): A decision tree to help users decide which files to archive
+1. [Files to include](#files-to-include): Guidelines for organizing model data files that are associated with a scientific publication  
+2. [Deciding how to bundle files](#deciding-how-to-bundle-files): A decision tree to help users decide how to group files for archive
 3. [File-level metadata](#file-level-metadata): A deeper look at one component of the model data guidelines  
 
 ---
 
-### 1. File organization  
+### 1. Files to include  
 
-The figure below provides a visual depiction of how to organize some of the most common files associated with model data.  The files are either **metadata**, **data files**, or a **user guide**.
+The figure below will tell you:  
+- **Which** files to include in a data package
+- **What** details each file will need
+- **Recommendations** for file naming and formatting
 
 ![Recommended guidelines for publicly archiving land model data and code associated with journal articles to enhance their usability and enable data synthesis. (image from Simmonds et al 2021)](https://github.com/ess-dive-community/essdive-model-data-archiving-guidelines/blob/main/Model%20Data%20Guidelines%20Diagram.png)
+
+&#185; Choose whether to publish model components in one or more data publications according to the Decision Tree in Section 2 below.
+&#178; Use unique file names that contain no spaces, and an intuitive file naming nomenclature. Only letters, numbers, a hyphen, and an underscore can be used in file names.  
+&#42; Optional
 
 Once the model data and all associated files are prepared, all files and software can be published in a long-term data archive and assigned a DOI. 
 
 Then, the scientific article resulting from the model data can be submitted for publication, including citations for both model data and code in the references section of the manuscript.
 
 ---  
-### 2. Decision tree  
+### 2. Deciding how to bundle files  
 
-In our survey of the ESS modeling community, we found that modelers often struggled with deciding which model data to archive. These decisions were related to authorship of different components of the model data package, as well as repository storage limits.
-
-We created the decision tree that summarizes the most common decisions that modelers have to make when archiving data. We then provide suggestions for *which* files to archive, and *when* to submit the data to a public archive.  
+The decision tree below provides suggestions for which files to archive, and when to submit data to a pbulic archive using the following considerations:  
+- Repository storage limitations
+- Authorship
+- Downstream value
 
 ![Decision tree](https://github.com/ess-dive-community/essdive-model-data-archiving-guidelines/blob/main/Model%20Data%20Guidelines%20-%20Decision%20tree.png)
 
