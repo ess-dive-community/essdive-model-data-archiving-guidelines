@@ -30,7 +30,7 @@ Then, the scientific article resulting from the model data can be submitted for 
 ---  
 ### 2. Deciding how to bundle files  
 
-The decision tree below provides suggestions for which files to archive, and when to submit data to a pbulic archive using the following considerations:  
+The decision tree below provides suggestions for which files to archive, and when to submit data to a public archive using the following considerations:  
 - Repository storage limitations
 - Authorship
 - Downstream value
