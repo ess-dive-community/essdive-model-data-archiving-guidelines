@@ -16,7 +16,7 @@ The figure below will tell you:
 - **What** details each file will need
 - **Recommendations** for file naming and formatting
 
-![Recommended guidelines for publicly archiving land model data and code associated with journal articles to enhance their usability and enable data synthesis. (image from Simmonds et al 2021)](https://github.com/ess-dive-community/essdive-model-data-archiving-guidelines/blob/new-diagram/Model%20Data%20Guidelines%20Diagram.png)
+![Recommended guidelines for publicly archiving land model data and code associated with journal articles to enhance their usability and enable data synthesis. (image from Simmonds et al 2021)](https://github.com/ess-dive-community/essdive-model-data-archiving-guidelines/blob/main/Model%20Data%20Guidelines%20Diagram.png)
 
 &#185; Choose whether to publish model components in one or more data publications according to the Decision Tree in Section 2 below.
 
