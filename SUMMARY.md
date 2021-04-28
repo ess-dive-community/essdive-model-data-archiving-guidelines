@@ -1,4 +1,4 @@
 # Model Data Archiving Guidelines
 
-* [Home Page](README.md)
+* [README](README.md)
 * [Instructions](instructions.md)  
