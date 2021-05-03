@@ -16,7 +16,7 @@ The figure below will tell you:
 - **What** details each file will need  
 - **Recommendations** for file naming and formatting   
 
-![Recommended guidelines for publicly archiving land model data and code associated with journal articles to enhance their usability and enable data synthesis. (image from Simmonds et al 2021)](images/Model Data Guidelines - Diagram.png)
+![Recommended guidelines for publicly archiving land model data and code associated with journal articles to enhance their usability and enable data synthesis. (image from Simmonds et al 2021)](https://github.com/ess-dive-community/essdive-model-data-archiving-guidelines/blob/b4bc588fe94ee8120c18bbbbc3965a993bd3f9aa/Model%20Data%20Guidelines%20-%20Diagram.png)
 
 &#185; Choose whether to publish model components in one or more data publications according to the Decision Tree in Section 2 below.
 
@@ -35,13 +35,13 @@ The decision tree below provides suggestions for which files to archive, and whe
 - Authorship
 - Downstream value
 
-![Decision tree that can help users decide whic files to bundle together and archive for their models](images/Model Data Guidelines - Decision tree.png)
+![Decision tree that can help users decide whic files to bundle together and archive for their models](https://github.com/ess-dive-community/essdive-model-data-archiving-guidelines/blob/b4bc588fe94ee8120c18bbbbc3965a993bd3f9aa/Model%20Data%20Guidelines%20-%20Decision%20tree.png)
 
 --- 
 ### 3. File-Level Metadata   
 
 We suggest researchers archiving model data include 2 types of file-level metadata. For more details see [ESS-DIVE File-level Metadata](https://github.com/ess-dive-community/essdive-file-level-metadata). Note that one possible option is to use ncdump to create a metadata CSV file for NetCDF and HDF5 files. 
-![Diagram showing the different components of file-level metadata that can be uploaded as part of a complete data package](images/Model Data Guidelines - FLMD.png)  
+![Diagram showing the different components of file-level metadata that can be uploaded as part of a complete data package](https://github.com/ess-dive-community/essdive-model-data-archiving-guidelines/blob/b4bc588fe94ee8120c18bbbbc3965a993bd3f9aa/Model%20Data%20Guidelines%20-%20FLMD.png)  
 
 &#185; For more details on how to provide file-level metadata [see here](https://github.com/ess-dive-community/essdive-file-level-metadata)  
 &#178; Example of [CSV format](https://github.com/ess-dive-community/essdive-csv-structure)  
