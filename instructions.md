@@ -35,7 +35,7 @@ The decision tree below provides suggestions for which files to archive, and whe
 - Authorship
 - Downstream value
 
-![Decision tree](https://github.com/ess-dive-community/essdive-model-data-archiving-guidelines/blob/main/Model%20Data%20Guidelines%20-%20Decision%20tree.png)
+![Decision tree](https://github.com/ess-dive-community/essdive-model-data-archiving-guidelines/blob/a6d6f77a2b11c02925968f605347703d4aaf0f87/Model%20Data%20Guidelines%20-%20Decision%20tree.png)
 
 --- 
 ### 3. File-Level Metadata   
