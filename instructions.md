@@ -35,13 +35,13 @@ The decision tree below provides suggestions for which files to archive, and whe
 - Authorship
 - Downstream value
 
-![Decision tree that can help users decide whic files to bundle together and archive for their models](https://github.com/ess-dive-community/essdive-model-data-archiving-guidelines/blob/b4bc588fe94ee8120c18bbbbc3965a993bd3f9aa/Model%20Data%20Guidelines%20-%20Decision%20tree.png)
+![Decision tree that can help users decide whic files to bundle together and archive for their models](.gitbook/assets/model_data_guidelines_decision_tree.png)
 
 --- 
 ### 3. File-Level Metadata   
 
 We suggest researchers archiving model data include 2 types of file-level metadata. For more details see [ESS-DIVE File-level Metadata](https://github.com/ess-dive-community/essdive-file-level-metadata). Note that one possible option is to use ncdump to create a metadata CSV file for NetCDF and HDF5 files. 
-![Diagram showing the different components of file-level metadata that can be uploaded as part of a complete data package](https://github.com/ess-dive-community/essdive-model-data-archiving-guidelines/blob/b4bc588fe94ee8120c18bbbbc3965a993bd3f9aa/Model%20Data%20Guidelines%20-%20FLMD.png)  
+![Diagram showing the different components of file-level metadata that can be uploaded as part of a complete data package](.gitbook/assets/model_data_guidelines_flmd.png)  
 
 &#185; For more details on how to provide file-level metadata [see here](https://github.com/ess-dive-community/essdive-file-level-metadata)  
 &#178; Example of [CSV format](https://github.com/ess-dive-community/essdive-csv-structure)  
