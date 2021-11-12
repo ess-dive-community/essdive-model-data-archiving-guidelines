@@ -10,17 +10,6 @@ We have organized the model data archiving guidelines in three sections.
 ---
 ### 1. Files to include   
 
-1. **Metadata** – This refers to pertinent information about data and code archived (e.g., abstract, geographical and temporal extents), as well as description of the files being archived with links to other DOI-issued publications within the entire simulation workflow, as applicable.  
-2. **Required Data Files** – Archived datasets should specify or include model inputs, outputs, code, and scripts depending on whether the data are published elsewhere or exceed repository dataset size limits. File names should be unique and can use an intuitive file naming nomenclature to help with discoverability. File names should only contain letters, numbers, hyphens, and underscores and should not contain spaces.  
-    1. **Model Inputs** – Input files should be included unless publicly available elsewhere, in which case a hyperlink to the specific input files (e.g., climate forcings, meshes, soil parameterizations) should be provided in the metadata and user guide. Use open-sourced formats such as comma separated value (.csv) or NetCDF (.nc) formats.  
-    2.	**Model Outputs**- Archive all model outputs if the size of the data files are within the repository storage limitations. This should include the raw and post-processed data that support the results, conclusions, and if associated with a publication the tables, and figures. If the size of the model output exceeds repository storage limitations, evaluate recommendations based on the decision tree (see Figure 2 in Simmonds et al. in review) on which data to publish. Use open-sourced formats such as comma separated value (.csv) or NetCDF (.nc) formats.  
-    3.	**Model Code** – Include specific version of code(s) used to generate results in paper unless the code is publicly available elsewhere (e.g., GitHub or Zenodo). Include links to any external model codes in the metadata and user guide. If published on GitHub, provide the commit identification number associated with the specific version.   
-    4.	**Scripts** – Include run scripts if they are necessary for running the model to generate published results. Optionally also include scripts necessary for reproducing the parameters and model configuration for the simulations and input files, for post-processing model outputs to produce the results (e.g., tables and figures in a publication), and scripts of the entire workflow used to generate the model results.  
-3.	**Optional Files** –  
-    1.	 \***File-level metadata** (FLMD) – Include descriptions of all the data files as one file catalog see [file-level metadata reporting format](https://github.com/ess-dive-community/essdive-file-level-metadata). Optionally also include one data dictionary for each file type within the data publication describing columns and variables.  
-    2.	**Model Testing Data**- Include data files in open source format (e.g., CSV) of observations from each location simulated to produce the results in the paper.  
-    3.	**Documentation or user guide** - Include a readme file (e.g., pdf) for each site-specific or large-scale simulation and provide details on required data or code dependencies.  
-4.	**Use in publications** - If publishing model results, include links to the data and code publication(s) in the Data or Code Availability section, and cite the dataset publication(s) with DOI(s) in the references section.  	
 
 ---   
 
