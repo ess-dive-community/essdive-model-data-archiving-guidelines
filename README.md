@@ -27,7 +27,7 @@ The content in this repository is free to use under the [CC BY 4.0 license](http
 
 ## How to cite these guidelines  
 
-Simmonds, M.B.; Riley, W.J.; Agarwal, D.A.; Chen, X.; Cholia, S.; Crystal-Ornelas, R.; Coon, E.T.; Dwivedi, D.; Hendrix V.; Huang, M.; Jan, A.; Kakalia, Z.; Kumar, J.; Koven, C.D.; Li, L.; Melara, M.; Ramakrishnan, L.; Ricciuto, D.M.; Walker, A.P.; Zhi, W.; Zhu, Q.; Varadharajan, C. (In Revision). Guidelines for publicly archiving terrestrial model data to enhance usability, intercomparison, and synthesis.
+Simmonds, M.B.; Riley, W.J.; Agarwal, D.A.; Chen, X.; Cholia, S.; Crystal-Ornelas, R.; Coon, E.T.; Dwivedi, D.; Hendrix V.C.; Huang, M.; Jan, A.; Kakalia, Z.; Kumar, J.; Koven, C.D.; Li, L.; Melara, M.; Ramakrishnan, L.; Ricciuto, D.M.; Walker, A.P.; Zhi, W.; Zhu, Q.; Varadharajan, C. (In Revision). Guidelines for publicly archiving terrestrial model data to enhance usability, intercomparison, and synthesis.
 
 ## Funding and acknowledgements  
 ESS-DIVE is funded by the U.S. Department of Energy, Office of Science, Office of Biological and Environmental Research, Earth and Environmental Sciences Division, Data Management program under contract number DE-AC02-05CH11231. ESS-DIVE uses resources of the National Energy Research Scientific Computing Center (NERSC), a DOE Office of Science User Facility operated under Contract No. DE-AC02-05CH11231. ORNL is managed by UT-Battelle, LLC, for the DOE under contract DE-AC05-1008 00OR22725. We thank two anonymous reviewers whose provided feedback on our associated manuscript, and William Collins (LBNL) for his thoughtful insights on model data archiving.
