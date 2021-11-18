@@ -2,13 +2,13 @@
 
 We compiled this set of model data archiving guidelines from a review of existing model archiving practices and also input from land modelers. Based on the information we collected, we provide a set of guidelines that can help modelers decide how to organize and archive data from their land model simulations.  
 
-We have organized the model data archiving guidelines in three sections.  
-1. [Files to include](#1-files-to-include): Guidelines for organizing model data files that are associated with a scientific publication  
+We have organized the instructions into three sections.  
+1. [Model data archiving guidelines](#1-model-data-archiving-guidelines): Guidelines for organizing model data files that are associated with a scientific publication  
 2. [Deciding how to bundle files](#2-deciding-how-to-bundle-files): A decision tree to help users decide how to group files for archive  
 3. [File-level metadata](#3-file-level-metadata): A deeper look at one component of the model data guidelines  
 
 ---  
-### 1. Files to include   
+### 1. Model data archiving guidelines   
 1. **Metadata** – This refers to pertinent information about data and code archived (e.g., abstract, geographical and temporal extents), as well as description of the files being archived with links to other DOI-issued publications within the entire simulation workflow, as applicable.  
 2. **Required Data Files** – Archived datasets should specify or include model inputs, outputs, code, and scripts depending on whether the data are published elsewhere or exceed repository dataset size limits. File names should be unique and can use an intuitive file naming nomenclature to help with discoverability. File names should only contain letters, numbers, hyphens, and underscores, should not contain spaces, and should not rely on case-sensitive file systems.  
     1. **Model Inputs** – Input files should be included unless publicly available elsewhere, in which case a hyperlink to the specific input files (e.g., climate forcings, meshes, soil parameterizations) should be provided in the metadata and user guide. Use open-sourced formats such as comma separated value (.csv) or NetCDF (.nc) formats where possible. 
