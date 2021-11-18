@@ -1,8 +1,6 @@
 # ESS-DIVE Model Data Archiving Guidelines v1.1.0  
 
-These guidelines were informed by input from the U.S. Department of Energy's Environmental System Science (ESS) land modeling community.  
-
-Based on input from the modeling community, we developed a white paper ([Simmonds et al, 2020](https://doi.org/10.31223/osf.io/acdk4)) that summarizes the community needs for model data archiving and ESS-DIVE's response to supporting those needs. A key finding was that the primary need for most researchers is to archive model data associated with publishing journal articles to meet journal and funding requirements. We also summarize current practices for archiving land model data for journal articles. We are preparing a manuscript summarizing the findings of the researcher interviews, and developing guidelines for archiving model data ([Simmonds et al., in revision](#how-to-cite-these-guidelines)).
+These guidelines were informed by input from the U.S. Department of Energy's (DOE) Environmental System Science (ESS) land modeling community (Simmonds et al., In Revision). The terrestrial modeling community have unique challenges related to data archiving because the models and simulations span scientific domains and address a diversity of research questions. Through working with DOE terrestrial modelers we created these guidelines which make reccomendations about which components of model simulations to archive, how to bundle files for data publication, and we discuss data repository tools that can faciliate future archiving of model data.
 
 These guidelines are the culmination of the aforementioned efforts, they will evolve over time based on ongoing community engagement and feedback received on the material in this GitHub repository.  
 
@@ -10,10 +8,10 @@ These guidelines are the culmination of the aforementioned efforts, they will ev
 To begin using the model data archiving guidelines, visit the [instructions page](instructions.md). There you will find the step-by-step procedure for making decisions about which files to archive.
 
 ## Updates in v1.1.0
-Updates to v1.1.0 as of November 17th 2021 include:
+Updates to v1.1.0 as of November 18th 2021 include:
 
 - Removing figure of model data archiving guidelines and replacing the figure with a text-based description of the guidelines based on feedback.
-- Updating citation for our `In Revision` manuscript.  
+- Updating citation for our `In Revision` manuscript and adding two co-authors.  
 - Updating figure of file-level metadata guidance with new recommendations from v1.0.0 of the file-level metadata reporting format.  
 
 ## How to contribute  
